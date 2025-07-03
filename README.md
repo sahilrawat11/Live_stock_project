@@ -85,7 +85,8 @@ python scripts/fetch_and_store.py
 ---
 
 ## 📸 Dashboard Preview
-![dashboard_SS](https://github.com/user-attachments/assets/a8a93db4-87f6-4f7c-88e9-5890c598d0e5)
+![dashboard_img](https://github.com/user-attachments/assets/6e2aa846-ff6c-4b15-8756-9a95801320ae)
+
 
 
 
